@@ -191,6 +191,10 @@ img {
   align-items: flex-start;
 }
 
+.project-image {
+  max-width: 338px;
+}
+
 .project-text {
   display: flex;
   flex-wrap: wrap;
